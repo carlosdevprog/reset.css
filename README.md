@@ -1,5 +1,5 @@
-# reset.css
-
-Add the <link rel="stylesheet" href="https://reset-css-iota.vercel.app/reset.css"> tag inside the <head> tag in the index.html file or copy the url below.
+### Settings
+## How to configure the reset.css link
+Add the url inside the href of a link:css tag in the index.html file
 
 https://reset-css-iota.vercel.app/reset.css
